@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AriefAndreawan
-- 👀 I’m interested in Software engginere
+- 👀 I’m interested in AI Engineer
 - 🌱 I’m currently learning Python ,Jave script, React Js
 - 💞️ I’m looking to collaborate on Project Building Aplication
 - 📫 Send To my Git hub or My Gmail
